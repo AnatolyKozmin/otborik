@@ -99,10 +99,12 @@ async def cmd_get_slots(message: types.Message):
         return
 
     try:
-        values = ws.get('B2:G13') or []
+        # Новый диапазон доступности: B17:G28 (ячейки с B17 по G28)
+        values = ws.get('B17:G28') or []
         dates = ws.get('B1:G1')[0]
         times = [r[0] for r in ws.get('A2:A13')]
-        dir_id_val = (ws.get('A16') or [['']])[0][0]
+        # ID направления теперь в A15
+        dir_id_val = (ws.get('A15') or [['']])[0][0]
     except Exception as e:
         await message.answer(f'Ошибка чтения диапазонов: {e}')
         return
@@ -124,7 +126,8 @@ async def cmd_get_slots(message: types.Message):
                 'Дизайн': None,
                 'F&U prod': None
             }
-            if cell_val.strip().lower() == 'не могу':
+            # По новой логике: если ячейка пустая => НЕ может (blocked); если есть текст => может
+            if not str(cell_val).strip():
                 try:
                     dir_id = int(dir_id_val.strip())
                 except Exception:
