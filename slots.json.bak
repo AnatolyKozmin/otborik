@@ -5,35 +5,35 @@
         "ЦТ": "blocked",
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": "blocked",
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "11:00-12:00": {
         "ЦТ": "blocked",
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": "blocked",
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "12:00-13:00": {
         "ЦТ": "blocked",
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": "blocked",
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "13:00-14:00": {
         "ЦТ": "blocked",
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": 1081883405,
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "14:00-15:00": {
         "ЦТ": "blocked",
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": 1011302838,
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "15:00-16:00": {
@@ -80,9 +80,9 @@
       },
       "21:00-22:00": {
         "ЦТ": "blocked",
-        "Фото": "blocked",
+        "Фото": null,
         "СМИ": "blocked",
-        "Дизайн": "blocked",
+        "Дизайн": null,
         "F&U prod.": "blocked"
       }
     },
@@ -112,7 +112,7 @@
         "ЦТ": "blocked",
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": 568784554,
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "14:00-15:00": {
@@ -123,7 +123,7 @@
         "F&U prod.": "blocked"
       },
       "15:00-16:00": {
-        "ЦТ": 786545314,
+        "ЦТ": null,
         "Фото": "blocked",
         "СМИ": "blocked",
         "Дизайн": "blocked",
@@ -151,24 +151,24 @@
         "F&U prod.": null
       },
       "19:00-20:00": {
-        "ЦТ": 960946972,
+        "ЦТ": null,
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": "blocked",
+        "Дизайн": null,
         "F&U prod.": null
       },
       "20:00-21:00": {
         "ЦТ": null,
         "Фото": null,
         "СМИ": null,
-        "Дизайн": "blocked",
+        "Дизайн": null,
         "F&U prod.": null
       },
       "21:00-22:00": {
         "ЦТ": "blocked",
         "Фото": null,
         "СМИ": null,
-        "Дизайн": "blocked",
+        "Дизайн": null,
         "F&U prod.": "blocked"
       }
     },
@@ -211,7 +211,7 @@
       "15:00-16:00": {
         "ЦТ": "blocked",
         "Фото": "blocked",
-        "СМИ": 955830420,
+        "СМИ": null,
         "Дизайн": "blocked",
         "F&U prod.": null
       },
@@ -225,7 +225,7 @@
       "17:00-18:00": {
         "ЦТ": "blocked",
         "Фото": "blocked",
-        "СМИ": 810075173,
+        "СМИ": null,
         "Дизайн": "blocked",
         "F&U prod.": null
       },
@@ -240,21 +240,21 @@
         "ЦТ": "blocked",
         "Фото": null,
         "СМИ": "blocked",
-        "Дизайн": 1611016530,
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "20:00-21:00": {
         "ЦТ": "blocked",
         "Фото": null,
         "СМИ": "blocked",
-        "Дизайн": 785802142,
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "21:00-22:00": {
         "ЦТ": "blocked",
         "Фото": null,
         "СМИ": "blocked",
-        "Дизайн": 1021085956,
+        "Дизайн": null,
         "F&U prod.": null
       }
     },
@@ -320,25 +320,25 @@
         "Фото": "blocked",
         "СМИ": "blocked",
         "Дизайн": "blocked",
-        "F&U prod.": 1180460609
+        "F&U prod.": null
       },
       "19:00-20:00": {
         "ЦТ": "blocked",
-        "Фото": 702244155,
+        "Фото": null,
         "СМИ": "blocked",
         "Дизайн": "blocked",
         "F&U prod.": null
       },
       "20:00-21:00": {
         "ЦТ": "blocked",
-        "Фото": 1405584581,
+        "Фото": null,
         "СМИ": "blocked",
         "Дизайн": "blocked",
         "F&U prod.": null
       },
       "21:00-22:00": {
         "ЦТ": "blocked",
-        "Фото": 1274527370,
+        "Фото": null,
         "СМИ": "blocked",
         "Дизайн": "blocked",
         "F&U prod.": null
@@ -360,7 +360,7 @@
         "F&U prod.": "blocked"
       },
       "12:00-13:00": {
-        "ЦТ": 5007995767,
+        "ЦТ": null,
         "Фото": "blocked",
         "СМИ": "blocked",
         "Дизайн": "blocked",
@@ -374,7 +374,7 @@
         "F&U prod.": "blocked"
       },
       "14:00-15:00": {
-        "ЦТ": 2131378607,
+        "ЦТ": null,
         "Фото": "blocked",
         "СМИ": "blocked",
         "Дизайн": "blocked",
@@ -406,7 +406,7 @@
         "Фото": "blocked",
         "СМИ": null,
         "Дизайн": "blocked",
-        "F&U prod.": 908154246
+        "F&U prod.": null
       },
       "19:00-20:00": {
         "ЦТ": "blocked",
@@ -417,7 +417,7 @@
       },
       "20:00-21:00": {
         "ЦТ": "blocked",
-        "Фото": 727806322,
+        "Фото": null,
         "СМИ": null,
         "Дизайн": "blocked",
         "F&U prod.": "blocked"
@@ -435,11 +435,11 @@
         "ЦТ": null,
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": 5480512715,
+        "Дизайн": null,
         "F&U prod.": "blocked"
       },
       "11:00-12:00": {
-        "ЦТ": 6455084081,
+        "ЦТ": null,
         "Фото": "blocked",
         "СМИ": "blocked",
         "Дизайн": null,
@@ -463,7 +463,7 @@
         "ЦТ": null,
         "Фото": "blocked",
         "СМИ": "blocked",
-        "Дизайн": 1293541385,
+        "Дизайн": null,
         "F&U prod.": null
       },
       "15:00-16:00": {
@@ -482,7 +482,7 @@
       },
       "17:00-18:00": {
         "ЦТ": "blocked",
-        "Фото": 2035216527,
+        "Фото": null,
         "СМИ": "blocked",
         "Дизайн": null,
         "F&U prod.": "blocked"
@@ -517,195 +517,5 @@
       }
     }
   },
-  "registrations": [
-    {
-      "user_id": 1011302838,
-      "full_name": "Абубакар Ильясов",
-      "vk_link": "https://vk.com/id590740397",
-      "direction": "Дизайн",
-      "date": "06.10.2025(пн)",
-      "time": "14:00-15:00",
-      "registered_at": "2025-10-05T23:41:28.522318"
-    },
-    {
-      "user_id": 2035216527,
-      "full_name": "Дмитрий Коротков",
-      "vk_link": "https://vk.com/authentichek_96",
-      "direction": "Фото",
-      "date": "11.10.2025(сб)",
-      "time": "17:00-18:00",
-      "registered_at": "2025-10-05T23:45:37.400071"
-    },
-    {
-      "user_id": 5480512715,
-      "full_name": "Ульяна Лаврова",
-      "vk_link": "https://vk.com/id675845073",
-      "direction": "Дизайн",
-      "date": "11.10.2025(сб)",
-      "time": "10:00-11:00",
-      "registered_at": "2025-10-05T23:47:33.154456"
-    },
-    {
-      "user_id": 1274527370,
-      "full_name": "Асмолова Анна Дмитриевна",
-      "vk_link": "https://vk.com/tthaah",
-      "direction": "Фото",
-      "date": "09.10.2025(чт)",
-      "time": "21:00-22:00",
-      "registered_at": "2025-10-05T23:49:47.196079"
-    },
-    {
-      "user_id": 2131378607,
-      "full_name": "Софья Жгулева",
-      "vk_link": "https://m.vk.com/id607057581",
-      "direction": "ЦТ",
-      "date": "10.10.2025(пт)",
-      "time": "14:00-15:00",
-      "registered_at": "2025-10-05T23:53:08.728808"
-    },
-    {
-      "user_id": 1021085956,
-      "full_name": "Алиса Левина",
-      "vk_link": "https://vk.com/alicelevinaa",
-      "direction": "Дизайн",
-      "date": "08.10.2025(ср)",
-      "time": "21:00-22:00",
-      "registered_at": "2025-10-05T23:53:40.495375"
-    },
-    {
-      "user_id": 908154246,
-      "full_name": "Мария Аверьянова",
-      "vk_link": "https://vk.com/yyyeepppp",
-      "direction": "F&U prod.",
-      "date": "10.10.2025(пт)",
-      "time": "18:00-19:00",
-      "registered_at": "2025-10-05T23:56:20.615392"
-    },
-    {
-      "user_id": 1611016530,
-      "full_name": "Варвара Бочарова",
-      "vk_link": "https://vk.com/vizzzby",
-      "direction": "Дизайн",
-      "date": "08.10.2025(ср)",
-      "time": "19:00-20:00",
-      "registered_at": "2025-10-06T00:02:01.293610"
-    },
-    {
-      "user_id": 1180460609,
-      "full_name": "Тарасов Никита Константинович \nvk.com/tarkonnik7\nF&U prod. (Сценарист-репортер)\nЧетверг 18:00",
-      "vk_link": "vk.com/tarkonnik7",
-      "direction": "F&U prod.",
-      "date": "09.10.2025(чт)",
-      "time": "18:00-19:00",
-      "registered_at": "2025-10-06T00:02:59.317220"
-    },
-    {
-      "user_id": 785802142,
-      "full_name": "Анастасия Воронина",
-      "vk_link": "https://vk.com/asvoroninaas",
-      "direction": "Дизайн",
-      "date": "08.10.2025(ср)",
-      "time": "20:00-21:00",
-      "registered_at": "2025-10-06T00:09:15.409841"
-    },
-    {
-      "user_id": 1293541385,
-      "full_name": "Ира Шаманова",
-      "vk_link": "https://vk.com/reniww",
-      "direction": "Дизайн",
-      "date": "11.10.2025(сб)",
-      "time": "14:00-15:00",
-      "registered_at": "2025-10-06T01:00:42.844542"
-    },
-    {
-      "user_id": 955830420,
-      "full_name": "Симакина Дарья Александровна",
-      "vk_link": "https://vk.com/d.simakinaa",
-      "direction": "СМИ",
-      "date": "08.10.2025(ср)",
-      "time": "15:00-16:00",
-      "registered_at": "2025-10-06T07:10:46.288741"
-    },
-    {
-      "user_id": 702244155,
-      "full_name": "Чекер Марк Игоревич",
-      "vk_link": "vk.com/chekjr",
-      "direction": "Фото",
-      "date": "09.10.2025(чт)",
-      "time": "19:00-20:00",
-      "registered_at": "2025-10-06T07:14:37.016476"
-    },
-    {
-      "user_id": 960946972,
-      "full_name": "Максим Салитов",
-      "vk_link": "https://vk.com/id521153266",
-      "direction": "ЦТ",
-      "date": "07.10.2025(вт)",
-      "time": "19:00-20:00",
-      "registered_at": "2025-10-06T07:59:28.478928"
-    },
-    {
-      "user_id": 727806322,
-      "full_name": "1. Колганова Алина Александровна",
-      "vk_link": "2. https://vk.com/uuaqqp",
-      "direction": "Фото",
-      "date": "10.10.2025(пт)",
-      "time": "20:00-21:00",
-      "registered_at": "2025-10-06T08:18:17.729258"
-    },
-    {
-      "user_id": 6455084081,
-      "full_name": "Мартюков Антон Михайлович",
-      "vk_link": "https://vk.com/id877289946",
-      "direction": "ЦТ",
-      "date": "11.10.2025(сб)",
-      "time": "11:00-12:00",
-      "registered_at": "2025-10-06T10:46:44.581144"
-    },
-    {
-      "user_id": 568784554,
-      "full_name": "Анастасия Шоня",
-      "vk_link": "vk.com/neefues",
-      "direction": "Дизайн",
-      "date": "07.10.2025(вт)",
-      "time": "13:00-14:00",
-      "registered_at": "2025-10-06T12:16:10.050398"
-    },
-    {
-      "user_id": 5007995767,
-      "full_name": "Хоцин Никита Александрович",
-      "vk_link": "https://vk.com/id545569987",
-      "direction": "ЦТ",
-      "date": "10.10.2025(пт)",
-      "time": "12:00-13:00",
-      "registered_at": "2025-10-06T12:43:12.914934"
-    },
-    {
-      "user_id": 810075173,
-      "full_name": "Амелия Фадеева",
-      "vk_link": "https://vk.com/sfmel",
-      "direction": "СМИ",
-      "date": "08.10.2025(ср)",
-      "time": "17:00-18:00",
-      "registered_at": "2025-10-06T12:47:46.134637"
-    },
-    {
-      "user_id": 786545314,
-      "full_name": "Магомедов Руслан Магомедович",
-      "vk_link": "https://vk.com/pockemon05",
-      "direction": "ЦТ",
-      "date": "07.10.2025(вт)",
-      "time": "15:00-16:00",
-      "registered_at": "2025-10-06T13:09:01.790258"
-    },
-    {
-      "user_id": 1405584581,
-      "full_name": "Ятченко Ульяна Вячеславовна",
-      "vk_link": "https://vk.com/ulyattaa",
-      "direction": "Фото",
-      "date": "09.10.2025(чт)",
-      "time": "20:00-21:00",
-      "registered_at": "2025-10-06T16:58:12.206459"
-    }
-  ]
+  "registrations": []
 }
